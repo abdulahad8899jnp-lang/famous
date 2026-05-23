@@ -1,0 +1,58 @@
+const kurtaSetData = [
+  {
+    id: 2,
+    name: "Designer Kurta Set",
+    category: "Kurta Set",
+    price: "1,999",
+    rating: 4.6,
+    image: "\\images\\Kurtaset\\productkurta2.jpeg",
+    style: "Festive",
+    fabric: "Rayon",
+    stock: "In Stock",
+    description: "Elegant festive kurta set.",
+    sizes: ["M", "L", "XL"],
+  },
+  {
+    id: 1,
+    name: "Designer Kurta Set",
+    category: "Kurta Set",
+    price: "1,999",
+    rating: 4.6,
+    image: "\\images\\Kurtaset\\productkurta1.jpeg",
+    style: "Festive",
+    fabric: "Rayon",
+    stock: "In Stock",
+    description: "Elegant festive kurta set.",
+    sizes: ["M", "L", "XL"],
+  },
+  
+  {
+    id: 3,
+    name: "Designer Kurta Set",
+    category: "Kurta Set",
+    price: "1,999",
+    rating: 4.6,
+    image: "\\images\\Kurtaset\\productkurta3.jpeg",
+    style: "Festive",
+    fabric: "Rayon",
+    stock: "In Stock",
+    description: "Elegant festive kurta set.",
+    sizes: ["M", "L", "XL"],
+  },
+  {
+    id: 4,
+    name: "Designer Kurta Set",
+    category: "Kurta Set",
+    price: "1,999",
+    rating: 4.6,
+    image: "\\images\\Kurtaset\\productkurta4.jpeg",
+    style: "Festive",
+    fabric: "Rayon",
+    stock: "In Stock",
+    description: "Elegant festive kurta set.",
+    sizes: ["M", "L", "XL"],
+  },
+  
+];
+
+export default kurtaSetData;
